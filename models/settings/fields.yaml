@@ -1,0 +1,10 @@
+fields:
+    server:
+        label: Server base URL
+        span: left
+        type: text
+
+    secret:
+        label: Secret
+        span: left
+        type: sensitive
